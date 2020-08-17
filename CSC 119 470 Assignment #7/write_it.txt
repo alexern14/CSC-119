@@ -1,0 +1,3 @@
+invoice number, cash amount, P/R
+1, 500, R
+2, 50, P
